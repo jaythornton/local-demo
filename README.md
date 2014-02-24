@@ -1,6 +1,4 @@
-local-demo
-==========
+Local Demo
+=========================
 
-Local Wordpress install
-
-// This is a basic Wordpress install running on my local machine. See changes in templates, plugins, and other basic mods.
+Basic Wordpress install, set for template and plugn modification and testing.
