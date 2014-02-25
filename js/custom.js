@@ -139,7 +139,7 @@ $('#accordion .panel a').on('click',function(e){
 <!-- ========== START GOOGLE MAP SETTINGS ========== -->
 <!-- =============================================== -->
 var map;
-var myLatLng = new google.maps.LatLng(40.749151,-73.984594);
+var myLatLng = new google.maps.LatLng(36.0830386,-94.1610145);
 
 function initialize() {
 
@@ -153,7 +153,7 @@ function initialize() {
   ];
 
   var mapOptions = {
-      zoom: 18,
+      zoom: 15,
     center: myLatLng,
 	disableDefaultUI: true,
 	scrollwheel: false,

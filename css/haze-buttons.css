@@ -135,11 +135,11 @@ color:#FFF;
 /* PRIMARY BUTTON COLOR SETTINGS */
 /* ================================ */
 .btn-primary {
-background-color:#01CFCA;
+background-color:#0078c1;
 }
 
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary {
-background-color:#01CFCA;
+background-color:#0078c1;
 }
 /* ================================ */
 /* SECONDARY BUTTON COLOR SETTINGS */
@@ -199,16 +199,16 @@ color:#FFF;
 }
 
 .btn-primary.btn-outline,a.btn-primary.btn-outline:link,a.btn-primary.btn-outline:visited {
-border:2px solid #01CFCA;
+border:2px solid #0078c1;
 background-color:rgba(255,255,255,0);
-color:#01CFCA;
+color:#0078c1;
 font-weight:600;
 }
 
 .btn-primary.btn-outline:hover,.btn-primary.btn-outline:active,.btn-primary.btn-outline:focus,a.btn-primary.btn-outline:hover,a.btn-primary.btn-outline:active,a.btn-primary.btn-outline:focus {
-border:2px solid #01CFCA;
+border:2px solid #0078c1;
 color:#FFF;
-background-color:#01CFCA;
+background-color:#0078c1;
 }
 
 .btn-secondary.btn-outline,a.btn-secondary.btn-outline:link,a.btn-secondary.btn-outline:visited {
