@@ -1346,8 +1346,8 @@ zoom: 1;
 .tp-caption.super_large_bold_white {
 font-size:150px;
 line-height:150px;
-font-weight:800;
-font-family: 'Open Sans', san-serif;
+font-weight:bold;
+font-family:'Share';
 color:rgb(255, 255, 255);
 text-decoration:none;
 background-color:transparent;
@@ -1376,12 +1376,13 @@ color:#fff;
 font-weight:700;
 font-size:60px;
 line-height:60px;
-font-family: 'Open Sans', san-serif;
+font-family:'Share';
+font-style: italic;
 margin:0px;
 border-width:0px;
 border-style:none;
 white-space:nowrap;
-text-transform: uppercase;
+text-transform: lowercase;
 letter-spacing:-2px;
 }
 .slider-icon {
